@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herdeiradenubia
 - 👀 I’m interested in programming and books
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently participating in the Programa One #Oracle #Alura
 
 <div> 
   
